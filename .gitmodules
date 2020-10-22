@@ -1,0 +1,3 @@
+[submodule "eyegaze_prediction/api/dms"]
+	path = eyegaze_prediction/api/dms
+	url = https://github.com/himanshu-doi/dms-submodule.git
